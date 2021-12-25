@@ -1,0 +1,47 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package com.tutorial;
+
+/**
+ *
+ * @author Habib Fatkhul Rohman
+ */
+public class Main {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        
+        System.out.println(simple());
+        
+        fungsiVoid("apapun");
+        
+        nama("habib");
+        nama("emak");
+        nama("bapak");
+        
+
+    }
+    private static void nama(String nama){
+        System.out.println("Selamat Pagi " + nama);
+    }
+    
+    
+    
+    // fungsi tanpa pengembalian void (hampa)
+    private static void fungsiVoid(String p) {
+        System.out.println(p);
+    }
+    
+    
+    // fungsi dengan pengembalian 
+    
+    private static float simple() {
+        return 10.69f;
+    }
+    
+}

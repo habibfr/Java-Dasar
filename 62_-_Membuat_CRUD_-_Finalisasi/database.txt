@@ -1,0 +1,5 @@
+fiersabesari_2012_1,2012,fiersa besari,media kita,jejak langkah
+PramoedyaAnantatoer_2001_1,2001,Pramoedya Anantatoer,Gramedia,Bumi Manusia
+faqihza_3203_1,3203,faqihza,gramedia,belajar python
+habibganteng_2019_1,2019,habib ganteng,gramedia,habib gila
+Habibganteng_2000_1,2000,Habib ganteng,habib,habib
