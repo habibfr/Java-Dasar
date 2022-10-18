@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "editor.fontSize": 14,
+    "window.zoomLevel": 0.5,
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme" :"vscode-icons",
+
+}
